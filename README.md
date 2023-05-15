@@ -1,10 +1,10 @@
 # Data Engineering YouTube Analysis Project
 
-# Overview
+## Overview
 
 This project aims to securely manage and analyze YouTube video data based on video categories and trending metrics. It involves collecting structured and semi-structured data from YouTube videos, organizing it, and implementing a categorization module. The system will also analyze trending metrics such as views, likes, and comments. The project aims to provide valuable insights and optimization strategies for YouTube content creators.
 
-# Project Goals
+## Project Goals
 
 This project involves the following components and goals:
 
@@ -17,7 +17,7 @@ This project involves the following components and goals:
 
 The above components form a secure and scalable system for data collection, transformation, storage, and analysis, enabling users to derive valuable insights for decision-making.
 
-# In this project, we will utilize the following AWS services:
+## In this project, we will utilize the following AWS services:
 
 1. Amazon S3: Scalable object storage for secure and high-performance data storage.
 2. AWS IAM: Identity and access management for secure resource access.
