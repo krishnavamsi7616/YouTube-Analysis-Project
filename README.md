@@ -19,12 +19,12 @@ The above components form a secure and scalable system for data collection, tran
 
 ## In this project, we will utilize the following AWS services:
 
-1. Amazon S3: Scalable object storage for secure and high-performance data storage.
-2. AWS IAM: Identity and access management for secure resource access.
-3. QuickSight: Serverless business intelligence service for data visualization and analytics.
-4. AWS Glue: Serverless data integration for data preparation and combination.
-5. AWS Lambda: Scalable compute service for running code without managing servers.
-6. AWS Athena: Interactive query service for analyzing data stored in S3.
+    Amazon S3: Scalable object storage for secure and high-performance data storage.
+    AWS IAM: Identity and access management for secure resource access.
+    QuickSight: Serverless business intelligence service for data visualization and analytics.
+    AWS Glue: Serverless data integration for data preparation and combination.
+    AWS Lambda: Scalable compute service for running code without managing servers.
+    AWS Athena: Interactive query service for analyzing data stored in S3.
 
 These services will enable us to securely store, process, analyze, and visualize the collected data with scalability and efficiency.
 
