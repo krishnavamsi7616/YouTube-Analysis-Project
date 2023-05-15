@@ -31,3 +31,7 @@ These services will enable us to securely store, process, analyze, and visualize
 # Dataset used in the project
 
 The dataset used for this project is sourced from Kaggle. It consists of daily statistics on popular YouTube videos, covering a span of several months. Each file in the dataset corresponds to a specific region and contains information in CSV format. The dataset includes various attributes for each video, such as the video title, channel title, publication time, tags, views, likes, dislikes, description, and comment count. Additionally, there is a category_id field specific to each region, which is provided in a linked JSON file. The dataset provides valuable insights into the daily trends of YouTube videos, offering a comprehensive view of video popularity across different regions.
+
+
+## Architecture Diagram
+<img src="architecture.jpeg">
